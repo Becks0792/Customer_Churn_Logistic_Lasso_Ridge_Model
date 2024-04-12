@@ -33,4 +33,8 @@ The Lasso Regression was chosen as the optimal model due to its effective balanc
 - Services like online security and tech support significantly reduce churn probability.
 - Customers with fiber optic internet service or month-to-month contracts are more likely to churn.
 - Higher monthly charges and lower tenure increase the likelihood of churn.
+
+**Implementation**
+**Model Deployment:** The model can be deployed in a real-time prediction system where it can score customer records as they are updated, providing ongoing insights into potential churn risks.
+**Usage Scenarios:** This model can assist in targeting customers with high churn probability through tailored retention programs, personalized offers, and proactive customer service initiatives to improve loyalty and reduce turnover.
    
