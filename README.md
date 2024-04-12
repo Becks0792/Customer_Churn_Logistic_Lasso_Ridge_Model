@@ -36,5 +36,6 @@ The Lasso Regression was chosen as the optimal model due to its effective balanc
 
 **Implementation**
 **Model Deployment:** The model can be deployed in a real-time prediction system where it can score customer records as they are updated, providing ongoing insights into potential churn risks.
+
 **Usage Scenarios:** This model can assist in targeting customers with high churn probability through tailored retention programs, personalized offers, and proactive customer service initiatives to improve loyalty and reduce turnover.
    
